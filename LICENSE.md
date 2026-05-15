@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Plugin | gas-optimization + leverage-trading offers the most advanced Polymarket plugin, with gas-optimization and leverage-trading. Ideal for professional
 
 
 
